@@ -1,0 +1,1 @@
+This Repository is about the different Machine Learning Models I came across my AML course. Tried exploring different ML models, compared their accuracy and studied about their usage for different scenarios.
